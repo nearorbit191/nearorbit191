@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nearorbit191
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning lua, defold, maybe godot
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 
 <!---
